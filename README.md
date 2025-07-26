@@ -1,1 +1,1 @@
-TO-DO Savi: Add 2-3 project description
+TO-DO Savi: Add 2-3 line project description
